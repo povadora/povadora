@@ -4,13 +4,17 @@
   
 - 👀 I’m interested in ...
 - Software Development
+
   
 - 🌱 I’m currently learning ...
-    HTML
-    CSS
-    JAVASCRIPT
-    REACT
-    NEST
+-     HTML
+-     CSS
+-     JAVASCRIPT
+-     REACT
+-     NEST
+    
+ 
+
   
 - 💞️ I’m looking to collaborate on ...
 
