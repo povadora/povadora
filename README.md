@@ -7,7 +7,7 @@
 
   
 - 🌱 I’m currently learning ...
--     HTML
+      HTML
       CSS
       JAVASCRIPT
       REACT
