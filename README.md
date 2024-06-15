@@ -8,10 +8,10 @@
   
 - 🌱 I’m currently learning ...
 -     HTML
--     CSS
--     JAVASCRIPT
--     REACT
--     NEST
+      CSS
+      JAVASCRIPT
+      REACT
+      NEST
     
  
 
